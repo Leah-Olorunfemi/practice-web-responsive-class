@@ -71,12 +71,17 @@ h3 {
   h2 {
     text-align: center;
   }
+  .container {
+    padding-bottom: 20px;
+  }
   .nav-link-coloured {
     display: block;
     text-align: center;
     /* padding: 0px 10px; */
     margin: 0 10px;
   }
-  .navigation-links {
+  .about-img {
+    margin: 20px;
+    padding: 15px;
   }
 }
